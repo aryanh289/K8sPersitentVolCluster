@@ -56,7 +56,7 @@ spec:
 apiVersion: v1
 kind: Service
 metadata:
-  name: mylb
+  name: mylb1
 spec:
   selector:
     app: myweb
